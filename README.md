@@ -1,2 +1,2 @@
-# L'Log
+# L'Note
 Lastexiler's Blog
