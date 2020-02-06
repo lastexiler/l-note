@@ -1,2 +1,3 @@
 # L'Note
-Lastexiler's Blog
+
+[lastexiler.github.io/l-note/](https://lastexiler.github.io/l-note/)
